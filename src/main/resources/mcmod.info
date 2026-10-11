@@ -1,0 +1,24 @@
+
+{
+  "modListVersion": 2,
+  "modList": [
+    {
+      "modid": "${modId}",
+      "name": "${modName}",
+      "description": "Votifier V1/V2 vote receiver and command integration for Minecraft 1.7.10.",
+      "version": "${modVersion}",
+      "mcversion": "${minecraftVersion}",
+      "url": "https://github.com/KinakomochiMilk/KMC-Voting-MOD-Kinakomochi-Minecraft-Voting-System-",
+      "updateUrl": "",
+      "authorList": ["KinakomochiMilk"],
+      "credits": "",
+      "logoFile": "",
+      "screenshots": [],
+      "parent": "",
+      "requiredMods": [],
+      "dependencies": [],
+      "dependants": [],
+      "useDependencyInformation": false
+    }
+  ]
+}
