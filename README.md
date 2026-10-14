@@ -1,4 +1,4 @@
-# KMCVoting (Kinakomochi Minecraft Voting System)
+# KMCVoting
 Minecraft Forge 1.12.2 向けの投票システムMODです。
 
 Votifier v2互換の投票受付、投票時のコマンド実行、Votifier v1向けRSA公開鍵提供などを行います。
